@@ -16,17 +16,17 @@ Given survey results in the past 3 days in a specific state in U.S., then predic
 For more details, please refer to the project1_slides.pdf.
 
 ## Deliverables & Grading
-* PDF Report (50%)
+* PDF Report (40%)
     * methodology (e.g., network structure, training tips, hyperparameters, etc.)
     * empirical results and evaluation
     * conslusion
     
-* Python Code (50%)
+* Python Code (60%)
     * Code is required to avoid plagiarism.
    
 * Grading:
   * Total (100):
-    * Code (50) + Report (50)
+    * Code (60) + Report (40)
 
 ## Some Tips
 * Anaconda and virtual environment set tup
