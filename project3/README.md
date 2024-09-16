@@ -40,7 +40,7 @@ Evaluation goal: given a full-day long trajectory of a taxi, you need to predict
 During the testing, five days of trajectories collected from 5 drivers will be used to evaluate your submission. You can find the testing data test.pkl in the GitHub folder
 
 #### Submission Guideline
-To help better and fast evaluate your model, please submit a separate python file named "evaluation.py". This file should contain two functions.
+To help better and fast evaluate your model, please submit a separate python file named "evaluation.py". And example "evaluation.py" has been provided in the GitHub folder. Feel free to modify it. This evaluation file should contain two functions.
 * **Data Processing**
   ```python
   def processs_data(traj):
