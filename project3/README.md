@@ -1,4 +1,4 @@
-# Individual Project 2
+# Individual Project 3
 # Classification with Deep Learning
 #### Due Date
 * Tuesday Oct 1, 2024 (23:59)
