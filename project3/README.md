@@ -1,5 +1,5 @@
 # Individual Project 3
-# Classification with Deep Learning
+# Sequence Classification with Deep Neural Networks
 #### Due Date
 * Tuesday Oct 1, 2024 (23:59)
 
