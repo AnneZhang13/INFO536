@@ -23,7 +23,7 @@ In this project, you will try a sequence classification task using deep learning
 |0    |114.12072    |22.543716    |2016-07-02 0:09:01    |0|
 
 
-Above is an example of what the data look like. In the data/ folder, each .csv file is trajectories for 5 drivers in the same day. Data can be found at [Google Drive](https://drive.google.com/open?id=1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT)
+Above is an example of what the training data look like. In the data/ folder, each .csv file is trajectories for 5 drivers in the same day. Data can be found at [Google Drive](https://drive.google.com/open?id=1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT)
 #### Feature Description 
 * **Plate**: Plate means the taxi's plate. In this project, we change them to 0~5 to keep anonymity. Same plate means same driver, so this is the target label for the classification. 
 * **Longitude**: The longitude of the taxi.
