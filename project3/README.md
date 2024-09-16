@@ -7,7 +7,7 @@
 * 100 (One Hundred)
 
 ## Goal
-In this project, you will try a sequence classification task using deep learning. A training dataset (which can be found at [Google Drive](https://drive.google.com/open?id=1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT)) containing five taxi drivers' daily driving trajectories in 6 months is provided, and the goal is to build a deep neural networks to predict which driver a trajectory belongs to using the testing dataset (you can find the testing data test.pkl in the GitHub folder). You can use Keras or PyTorch for this project.
+In this project, you will try a sequence classification task using deep learning. A training dataset (which can be found at [Google Drive](https://drive.google.com/open?id=1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT)) containing five taxi drivers' daily driving trajectories in 6 months is provided, and the goal is to build deep neural networks to predict which driver a trajectory belongs to using the testing dataset (you can find the testing data test.pkl in the GitHub folder). You can use Keras or PyTorch for this project.
 
 
 ## Project Guidelines
