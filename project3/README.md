@@ -7,7 +7,7 @@
 * 100 (One Hundred)
 
 ## Goal
-In this project, you will try a sequence classification task using deep learning. A training dataset (which can be found at [Google Drive](https://drive.google.com/open?id=1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT)) containing five taxi drivers' daily driving trajectories in 6 months is provided, and the goal is to build deep neural networks to predict which driver a trajectory belongs to using the testing dataset (you can find the testing data test.pkl in the GitHub folder). You can use Keras or PyTorch for this project.
+In this project, you will try a sequence classification task using deep learning. A training dataset (which can be found at [Google Drive](https://drive.google.com/open?id=1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT)) containing five taxi drivers' daily driving trajectories in 6 months is provided, and the goal is to build deep neural networks to predict which driver a trajectory belongs to using the testing dataset (you can find a sample testing data test.pkl in the GitHub folder which only contains data for one testing driver for one day). You can use Keras or PyTorch for this project.
 
 
 ## Project Guidelines
@@ -37,7 +37,7 @@ You can do whatever you want to preprocess the data (i.e., long trajectories) be
 
 #### Evaluation 
 Evaluation goal: given a full-day long trajectory of a taxi, you need to predict which taxi driver it belongs to. 
-During the testing, five days of trajectories collected from 5 drivers will be used to evaluate your submission. You can find the testing data test.pkl in the GitHub folder
+During the testing, five days of trajectories collected from 5 drivers will be used to evaluate your submission. You can find a sample testing data test.pkl in the GitHub folder
 
 #### Submission Guideline
 To help better and fast evaluate your model, please submit a separate python file named "evaluation.py". And example "evaluation.py" has been provided in the GitHub folder. Feel free to modify it. This evaluation file should contain two functions.
