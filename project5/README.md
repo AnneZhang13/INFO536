@@ -23,6 +23,8 @@ The **CartPole** environment consists of:
   - Move the cart to the right (1)
 - **Goal**: The agent's task is to keep the pole balanced for as long as possible. If the pole angle exceeds a certain threshold or the cart moves out of bounds, the episode ends.
 
+- More details here: https://www.gymlibrary.dev/environments/classic_control/cart_pole/ 
+
 ## Requirements
 
 You are required to implement a **Policy Gradient** algorithm, specifically using the **REINFORCE** algorithm (one simple variant of **Policy Gradient**), to solve the CartPole environment. We will use **PyTorch** to build the neural network model that represents the policy, which will output a probability distribution over the actions.
