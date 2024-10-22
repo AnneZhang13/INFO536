@@ -38,6 +38,7 @@ You are required to implement a **Policy Gradient** algorithm, specifically usin
 
 You will need the following Python packages:
 
+```bash
 pip install gym torch numpy matplotlib
 
 ### Step 2: Define the Policy Network
@@ -51,6 +52,7 @@ You will implement the REINFORCE algorithm to optimize the policy. The key steps
 1. **Sample actions**: Use the policy network to sample actions based on the current state.
 2. **Store rewards**: After each action, store the corresponding rewards.
 3. **Update policy**: After the episode ends, calculate the total reward and update the policy using gradient ascent.
+
 More details about **REINFORCE** algorithm: https://dilithjay.com/blog/reinforce-a-quick-introduction-with-code 
 
 ### Step 4: Training the Agent
