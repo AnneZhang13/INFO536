@@ -1,14 +1,14 @@
 # INFO536 Project 4: Policy Gradient Method with PyTorch
 
-![CartPole](./cart_pole.gif)
-
 **Due Date: Nov 5th, 2024**
 
 ## Overview
 
-In this project, you will implement a simple reinforcement learning algorithm --- **Policy Gradient** to solve the classic **CartPole** problem using **PyTorch**.
+In this project, you will implement a simple reinforcement learning algorithm --- **REINFORCE** to solve the classic **CartPole** problem using **PyTorch**.
 
 CartPole is a popular problem in reinforcement learning. The objective is to keep a pole balanced upright on a moving cart. The agent controls the cart by either pushing it left or right, and must learn to maximize the time the pole stays upright.
+
+![CartPole](./cart_pole.gif)
 
 ## CartPole Environment Description
 
