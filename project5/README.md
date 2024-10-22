@@ -1,4 +1,4 @@
-# INFO536 Project 4: Policy Gradient Method with PyTorch
+# INFO536 Project 4: Policy Gradient for CartPole
 
 **Due Date: Nov 5th, 2024**
 
