@@ -1,6 +1,6 @@
 # INFO536 Project 4: Policy Gradient Method with PyTorch
 
-![CartPole](./cartpole.gif)
+![CartPole](./cart_pole.gif)
 
 **Due Date: Nov 5th, 2024**
 
