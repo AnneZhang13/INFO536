@@ -1,6 +1,6 @@
 # INFO536 Project 4: Policy Gradient Method with PyTorch
 
-![CartPole](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cart-pole_animation.gif)
+![CartPole](./cartpole.gif)
 
 **Due Date: Nov 5th, 2024**
 
@@ -40,6 +40,7 @@ You will need the following Python packages:
 
 ```bash
 pip install gym torch numpy matplotlib
+```
 
 ### Step 2: Define the Policy Network
 
