@@ -2,7 +2,7 @@
 # COVID-19 Cases Prediction
 
 #### Due Date
-* Thursday Sep 5, 2024 (23:59)
+* Thursday Sep 4, 2025 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
