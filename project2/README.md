@@ -2,7 +2,7 @@
 # MNIST Image Classification
 
 #### Due Date
-* Monday Sep 16, 2024 (23:59)
+* Monday Sep 18, 2025 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
