@@ -1,7 +1,7 @@
 # Individual Project 3
 # Sequence Classification with Deep Neural Networks
 #### Due Date
-* Thursday Oct 3, 2024 (23:59)
+* Tuesday Oct 7, 2025 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
