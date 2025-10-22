@@ -1,6 +1,6 @@
 # INFO536 Project 5: Policy Gradient for CartPole
 
-**Due Date: Nov 5th, 2024**
+**Due Date: Nov 6th, 2025**
 
 ## Overview
 
